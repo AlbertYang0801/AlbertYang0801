@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**AlbertYang0801/AlbertYang0801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm [Albert Yang!](https://github.com/AlbertYang0801) 👋.
+
+
+- ⭐ 软件工程 | Java开发工程师 🤖
+- 🌱 河南 | 郑州高新区
+- 💬  [18438049166@163.com](mailto:2434387555@qq.com)
+
+### Interesting stats
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AlbertYang0801&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+
+### 关于我
+- [技术笔记](https://blog.csdn.net/qq_40389276)
+- [CSDN](https://blog.csdn.net/qq_40389276)
+- [码云](https://gitee.com/zztiyjw)
+
+
+
+---
