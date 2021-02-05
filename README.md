@@ -10,12 +10,12 @@
 - 🌱 河南 | 郑州高新区
 - 💬  [18438049166@163.com](mailto:2434387555@qq.com)
 
-### 最近在看
+### Recent Books
 - [实战Java高并发程序设计（第2版）](https://item.jd.com/12458866.html)
 - [大话设计模式](https://item.jd.com/10079261.html)
 - [代码精进之路 从码农到工匠](https://item.jd.com/12612417.html)
 
-### 关于我
+### About Me
 - [技术笔记](https://blog.csdn.net/qq_40389276)
 - [CSDN](https://blog.csdn.net/qq_40389276)
 - [码云](https://gitee.com/zztiyjw)
