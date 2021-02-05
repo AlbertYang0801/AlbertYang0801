@@ -15,7 +15,7 @@
 - [大话设计模式](https://item.jd.com/10079261.html)
 - [代码精进之路 从码农到工匠](https://item.jd.com/12612417.html)
 
-### About Me
+### About me
 - [技术笔记](https://blog.csdn.net/qq_40389276)
 - [CSDN](https://blog.csdn.net/qq_40389276)
 - [码云](https://gitee.com/zztiyjw)
