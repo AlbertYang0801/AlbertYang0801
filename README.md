@@ -16,7 +16,7 @@
 - [代码精进之路 从码农到工匠](https://item.jd.com/12612417.html)
 
 ### About me
-- [技术小站](https://albertyang0801.github.io/blog//)
+- [技术小站](https://albertyang0801.github.io/blog/)
 - [CSDN](https://blog.csdn.net/qq_40389276)
 - [码云](https://gitee.com/zztiyjw)
 
