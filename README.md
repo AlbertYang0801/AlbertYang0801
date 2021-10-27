@@ -16,9 +16,10 @@
 - [代码精进之路 从码农到工匠](https://item.jd.com/12612417.html)
 
 ### About me
+- [码云](https://gitee.com/zztiyjw)
 - [技术小站](https://albertyang0801.github.io/blog/)
 - [CSDN](https://blog.csdn.net/qq_40389276)
-- [码云](https://gitee.com/zztiyjw)
+
 
 ### Interesting stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlbertYang0801&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
