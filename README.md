@@ -18,7 +18,6 @@
 ### About me
 - [码云](https://gitee.com/zztiyjw)
 - [技术小站](https://albertyang0801.github.io/blog/)
-- [CSDN](https://blog.csdn.net/qq_40389276)
 
 
 ### Interesting stats
