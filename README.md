@@ -1,12 +1,11 @@
 
 ---
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 
 # Hi, I'm [Albert Yang!](https://github.com/AlbertYang0801) 👋.
 
-- 🌱 Yuhang ｜ Hangzhou
-- 💬  [18438049166@163.com](18438049166@163.com)
+
 
 
 <picture>
