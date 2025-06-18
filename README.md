@@ -1,4 +1,4 @@
-# <div align="center">✨ 欢迎来到 Albert Yang 的代码世界 ✨</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Albert%20Yang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=热爱编程%20|%20追求卓越%20|%20创新思维&descAlignY=55&descAlign=62" />
