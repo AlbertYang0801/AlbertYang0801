@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=AlbertYang0801&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi！+I'm++Albert+Yang;资深Java后端开发工程师" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi！+I'm++Albert+Yang" alt="Typing SVG" />
 </div>
 
 
