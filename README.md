@@ -31,17 +31,38 @@
  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,kafka,mongodb,git,linux,docker,kubernetes,grafana,prometheus,idea,jenkins" />
   </div>
 </div>
-
 <br>
 
-<div class="vp-card">
-  <h2 align="center">📊 GitHub 统计</h2>
+<h2 align="center">🎯 学习路线</h2>
   <div class="vp-card-content" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlbertYang0801&show_icons=true&count_private=true&hide_border=true&title_color=3eaf7c&icon_color=3eaf7c&text_color=273849&bg_color=ffffff" alt="GitHub 统计" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertYang0801&layout=compact&hide_border=true&title_color=3eaf7c&text_color=273849&bg_color=ffffff" alt="使用最多的语言" height="170" />
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="timeline-badge">✅</div>
+        <div class="timeline-content">
+          <h4>后端开发基础</h4>
+          <p>Java核心、Spring框架、数据库设计</p>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-badge">✅</div>
+        <div class="timeline-content">
+          <h4>微服务架构</h4>
+          <p>Spring Cloud、服务治理、API网关</p>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-badge">⏳</div>
+        <div class="timeline-content">
+          <h4>云原生技术</h4>
+          <p>Docker、Kubernetes、可观测性</p>
+        </div>
+      </div>
+    </div>
   </div>
-</div>
 <br>
+
+
+
 
 <div class="vp-card">
   <h2 align="center">🔥 项目精选</h2>
@@ -74,8 +95,8 @@
     <table align="center" style="border: none;">
       <tr>
         <td>
-          <a href="https://your-blog-url.com/article1">
-            <img src="https://img.shields.io/badge/微服务架构设计-3eaf7c?style=for-the-badge" alt="博客1"/>
+          <a href="https://albertyang0801.github.io/blog/frame/spring/custom/%E6%89%8B%E5%86%99Spring.html">
+            <img src="https://img.shields.io/badge/手写Spring-006400?style=for-the-badge" alt="手写Spring"/>
           </a>
         </td>
         <td>
@@ -98,7 +119,16 @@
       </tr>
     </table>
   </div>
+<br>
 
+
+<div class="vp-card">
+  <h2 align="center">📊 GitHub 统计</h2>
+  <div class="vp-card-content" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlbertYang0801&show_icons=true&count_private=true&hide_border=true&title_color=3eaf7c&icon_color=3eaf7c&text_color=273849&bg_color=ffffff" alt="GitHub 统计" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertYang0801&layout=compact&hide_border=true&title_color=3eaf7c&text_color=273849&bg_color=ffffff" alt="使用最多的语言" height="170" />
+  </div>
+</div>
 <br>
 
 <h2 align="center">🐍 贡献图</h2>
@@ -109,60 +139,3 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fuwx295/fuwx295/output/github-contribution-grid-snake.svg">
     </picture>
   </div>
-
-<h2 align="center">🎯 学习路线</h2>
-  <div class="vp-card-content" align="center">
-    <div class="timeline">
-      <div class="timeline-item">
-        <div class="timeline-badge">✅</div>
-        <div class="timeline-content">
-          <h4>后端开发基础</h4>
-          <p>Java核心、Spring框架、数据库设计</p>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-badge">✅</div>
-        <div class="timeline-content">
-          <h4>微服务架构</h4>
-          <p>Spring Cloud、服务治理、API网关</p>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-badge">⏳</div>
-        <div class="timeline-content">
-          <h4>云原生技术</h4>
-          <p>Docker、Kubernetes、可观测性</p>
-        </div>
-      </div>
-    </div>
-  </div>
-<br>
-
-<h2 align="center">📚 技术书架</h2>
-  <div class="vp-card-content" align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/《深入理解Java虚拟机》-3eaf7c?style=for-the-badge" alt="书籍1"/>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/《Spring实战》-3eaf7c?style=for-the-badge" alt="书籍2"/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/《微服务架构设计模式》-3eaf7c?style=for-the-badge" alt="书籍3"/>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/《实战Java高并发程序设计（第2版）》-3eaf7c?style=for-the-badge" alt="书籍4"/>
-        </td>
-      </tr>
-    </table>
-  </div>
-<br>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3eaf7c&height=120&section=footer" />
-</div>
-/
