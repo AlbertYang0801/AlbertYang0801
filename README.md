@@ -100,19 +100,19 @@
           </a>
         </td>
         <td>
-          <a href="[https://your-blog-url.com/article2](http://localhost:8080/blog/frame/springcloud/)">
+          <a href="https://albertyang0801.github.io/blog/frame/springcloud">
             <img src="https://img.shields.io/badge/SpringCloud最佳实践-006400?style=for-the-badge" alt="SpringCloud最佳实践"/>
           </a>
         </td>
       </tr>
       <tr>
         <td>
-          <a href="http://localhost:8080/blog/database/mysql/">
+          <a href="https://albertyang0801.github.io/blog/database/mysql/">
             <img src="https://img.shields.io/badge/MySQL原理总结-006400?style=for-the-badge" alt="MySQL原理总结"/>
           </a>
         </td>
         <td>
-          <a href="http://localhost:8080/blog/design">
+          <a href="https://albertyang0801.github.io/blog/design">
             <img src="https://img.shields.io/badge/设计模式练习-006400?style=for-the-badge" alt="设计模式练习"/>
           </a>
         </td>
