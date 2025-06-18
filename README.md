@@ -58,23 +58,24 @@
 
 <div align="center">
   <a href="https://github.com/AlbertYang0801/sfsProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=sfsProject&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=sfsProject&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/AlbertYang0801/JavaAdvance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=JavaAdvance&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=JavaAdvance&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/AlbertYang0801/summer-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=summer-framework&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=summer-framework&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/AlbertYang0801/concurrent-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=concurrent-practice&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=concurrent-practice&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/AlbertYang0801/seckill-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=seckill-project&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=seckill-project&theme=dark&hide_border=true" />
   </a>
  <a href="https://github.com/AlbertYang0801/SpringCloud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=SpringCloud&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=SpringCloud&theme=dark&hide_border=true" />
   </a>
+
 
 </div>
 
