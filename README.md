@@ -16,7 +16,7 @@
 
 
 
-<h1 align="center">⚡ 技术宇宙 ⚡</h1>
+<h1 align="center">🛠️ 技术栈 🛠️</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,elasticsearch,kafka,mysql,redis,mongodb,git,linux,docker,kubernetes,grafana,prometheus,idea,jenkins" />
