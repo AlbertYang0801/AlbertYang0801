@@ -95,7 +95,7 @@
     <table align="center" style="border: none;">
       <tr>
         <td>
-          <a href="https://albertyang0801.github.io/blog/frame/spring/custom/%E6%89%8B%E5%86%99Spring.html">
+          <a href="https://albertyang0801.github.io/blog/frame/spring/custom/%E6%89%8B%E5%86%99Spring.html" target="_blank">
             <img src="https://img.shields.io/badge/手写Spring-006400?style=for-the-badge" alt="手写Spring"/>
           </a>
         </td>
