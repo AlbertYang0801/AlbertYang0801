@@ -13,19 +13,6 @@
 
 
 <div class="vp-card">
-  <h2 align="center">📚 关于我</h2>
-  <div class="vp-card-content">
-    <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-    <p>👨‍💻 我是一名充满热情的开发者，专注于构建高质量的应用</p>
-    <p>🚀 持续探索前沿技术，追求编写优雅高效的代码</p>
-    <p>🌱 热爱学习和分享，相信技术可以改变世界</p>
-    <p>🔍 对解决复杂问题充满兴趣，享受挑战的过程</p>
-    <p>🌟 致力于为开源社区做出贡献，与更多开发者共同成长</p>
-  </div>
-</div>
-<br>
-
-<div class="vp-card">
   <h2 align="center">🛠️ 技术栈</h2>
   <div class="vp-card-content" align="center">
  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,kafka,mongodb,git,linux,docker,kubernetes,grafana,prometheus,idea,jenkins" />
@@ -33,33 +20,7 @@
 </div>
 <br>
 
-<h2 align="center">🎯 学习路线</h2>
-  <div class="vp-card-content" align="center">
-    <div class="timeline">
-      <div class="timeline-item">
-        <div class="timeline-badge">✅</div>
-        <div class="timeline-content">
-          <h4>后端开发基础</h4>
-          <p>Java核心、Spring框架、数据库设计</p>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-badge">✅</div>
-        <div class="timeline-content">
-          <h4>微服务架构</h4>
-          <p>Spring Cloud、服务治理、API网关</p>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-badge">⏳</div>
-        <div class="timeline-content">
-          <h4>云原生技术</h4>
-          <p>Docker、Kubernetes、可观测性</p>
-        </div>
-      </div>
-    </div>
-  </div>
-<br>
+
 
 
 
