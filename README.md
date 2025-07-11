@@ -35,6 +35,9 @@
 <div class="vp-card">
   <h2 align="center">🔥 项目精选</h2>
   <div class="vp-card-content" align="center">
+     <a href="https://github.com/AlbertYang0801/aurora-telemetry-java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=aurora-telemetry-java&theme=dark&hide_border=true" />
+  </a>
     <a href="https://github.com/AlbertYang0801/sfsProject">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=sfsProject&theme=dark&hide_border=true" />
   </a>
@@ -50,9 +53,7 @@
   <a href="https://github.com/AlbertYang0801/seckill-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=seckill-project&theme=dark&hide_border=true" />
   </a>
- <a href="https://github.com/AlbertYang0801/SpringCloud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertYang0801&repo=SpringCloud&theme=dark&hide_border=true" />
-  </a>
+
   </div>
 </div>
 
