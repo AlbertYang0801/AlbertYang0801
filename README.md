@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Albert%20Yang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=热爱编程%20|%20追求卓越%20|%20创新思维&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Albert%20Yang&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=62" />
 </div>
 <p align="center">
   <a href="https://github.com/AlbertYang0801"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
