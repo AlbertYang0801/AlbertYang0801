@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/AlbertYang0801"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://gitee.com/zztiyjw"><img src="https://img.shields.io/badge/GITEE-100000?style=for-the-badge&logo=gitee&logoColor=red" alt="GITEE"/></a>
-  <a href="https://gitee.com/zztiyjw"><img src="https://img.shields.io/badge/blog-100000?style=for-the-badge&logo=blogger&logoColor=white" alt="blogger"/></a>
+  <a href="https://albertyang0801.github.io/blog/"><img src="https://img.shields.io/badge/blog-100000?style=for-the-badge&logo=blogger&logoColor=white" alt="blogger"/></a>
   <img src="https://komarev.com/ghpvc/?username=AlbertYang0801&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 <div align="center">
