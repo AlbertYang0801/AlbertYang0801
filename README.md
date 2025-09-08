@@ -15,7 +15,7 @@
 <div class="vp-card">
   <h2 align="center">🛠️ 技术栈</h2>
   <div class="vp-card-content" align="center">
- <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,kafka,mongodb,git,linux,docker,kubernetes,grafana,prometheus,idea,jenkins" />
+ <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,kafka,git,linux,docker,kubernetes,grafana,prometheus,jenkins" />
   </div>
 </div>
 <br>
