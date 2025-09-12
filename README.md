@@ -8,14 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi!+I'm++Albert+Yang;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
 
-<div class="vp-card">
-  <h2 align="center">🛠️ Tech Stack</h2>
-  <div class="vp-card-content" align="center">
- <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,kafka,git,linux,docker,kubernetes,grafana,prometheus,jenkins" />
-  </div>
-</div>
-<br>
-
 <h2 align="center">🐍 Contribution Graph</h2>
   <div class="vp-card-content" align="center">
     <picture>
@@ -24,6 +16,16 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fuwx295/fuwx295/output/github-contribution-grid-snake.svg">
     </picture>
   </div>
+
+<div class="vp-card">
+  <h2 align="center">🛠️ Tech Stack</h2>
+  <div class="vp-card-content" align="center">
+ <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,kafka,git,linux,docker,kubernetes,grafana,prometheus,jenkins" />
+  </div>
+</div>
+<br>
+
+
 
 <div class="vp-card">
   <h2 align="center">📊 GitHub Stats</h2>
